@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-10T06:53:17.654Z'
+datePublished: '2016-08-12T22:43:45.683Z'
 sourcePath: _posts/2016-04-19-bits-and-pieces-an-organic-wave-of-hoberman-spheres.md
 inFeed: true
 isBasedOnUrl: >-
@@ -22,7 +22,8 @@ author:
   - name: Filip Visnjic
     url: 'http://www.creativeapplications.net/author/filip/'
     avatar: {}
-dateModified: '2016-08-10T06:53:16.964Z'
+via: {}
+dateModified: '2016-08-12T22:43:44.764Z'
 title: Bits And Pieces - An organic wave of Hoberman Spheres
 app_links: []
 publisher:
@@ -39,10 +40,9 @@ description: >-
   throughout the space.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Bits And Pieces - An organic wave of Hoberman Spheres</h1><p>Currently on show at Berlin's NOME Gallery is the latest work by Nils Völker titled Bits And Pieces. The installation consists out of 108 mass-produced toy spheres hanging in the middle of the exhibition space, individually addressable and controlled, to create organic waves that appear to move throughout the space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29c17de1db318a16ae7c090ab6a2dab8f308c76c.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29c17de1db318a16ae7c090ab6a2dab8f308c76c.jpg" /><h1>Bits And Pieces - An organic wave of Hoberman Spheres</h1><p>Currently on show at Berlin's NOME Gallery is the latest work by Nils Völker titled Bits And Pieces. The installation consists out of 108 mass-produced toy spheres hanging in the middle of the exhibition space, individually addressable and controlled, to create organic waves that appear to move throughout the space.</p></article>
